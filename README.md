@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
 🔭 I’m currently working on Iris, a Kafka broker health monitor, and Trade Tracker (in the works), an app to record PnL & trade decisions.<br>
-💬 Ask me about anything Fullstack, Scripting & Databases<br>
+💬 Ask me about anything Fullstack, Trading, & Scripting <br>
 📫 How to reach me li.walter1@gmail.com
 
 
